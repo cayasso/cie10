@@ -1,0 +1,7 @@
+{
+	"name": "cie10",
+	"version": "0.0.1",
+	"description": "Codigos CIE-10 (Clasificación internacional de enfermedades, décima versión)",
+	"author": "Jonathan Brumley <cayasso@gmail.com>",
+	"lisence": "MIT"
+}
