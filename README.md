@@ -6,7 +6,7 @@ Codigos CIE-10 (Clasificación internacional de enfermedades, décima versión)
 Installation
 ============
 
-	$ npm isntall cie10
+	$ npm install cie10
 
 Usage
 =====
